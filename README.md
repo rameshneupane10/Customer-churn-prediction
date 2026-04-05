@@ -14,5 +14,5 @@ Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
 ## 📌 Outcome
 
-Achieved ~85–90% accuracy in predicting customer churn.
+Achieved ~85–90% accuracy in predicting customer churn
 
